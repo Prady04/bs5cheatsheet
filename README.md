@@ -1,2 +1,2 @@
 # Bootstrap5-cheatsheet-
-My Bootstrap cheatsheet contains main components
+thanks to the stranger who created this. 
